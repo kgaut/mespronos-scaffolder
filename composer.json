@@ -41,9 +41,7 @@
     "installer-paths": {
       "www/": ["type:drupal-core"],
       "www/modules/contrib/{$name}/": ["type:drupal-module"],
-      "web/modules/{$name}": ["kgaut/mespronos"],
-      "web/profiles/{$name}": ["kgaut/mespronos_website"],
-      "web/profiles/contrib/{$name}": ["type:drupal-profile"],
+      "www/profiles/contrib/{$name}": ["type:drupal-profile"],
       "www/themes/contrib/{$name}/": ["type:drupal-theme"],
       "www/libraries/{$name}/": ["type:drupal-library"],
       "drush/contrib/{$name}/": ["type:drupal-drush"]
