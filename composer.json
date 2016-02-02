@@ -1,8 +1,8 @@
 {
-  "name": "kgaut/drupal-site-scaffolder",
-  "description": "Composer template for a drupal website",
-  "keywords": ["drupal","drupal8"],
-  "homepage": "https://github.com/kgaut/drupal-site-scaffolder",
+  "name": "kgaut/mespronos-site-scaffolder",
+  "description": "Kickstart a new betting website based on Drupal 8",
+  "keywords": ["drupal","drupal8","mespronos"],
+  "homepage": "https://github.com/kgaut/mespronos-scaffolder",
   "license": "GNU GPL V2",
   "authors": [
     {
