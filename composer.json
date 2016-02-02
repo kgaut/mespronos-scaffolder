@@ -2,7 +2,7 @@
   "name": "kgaut/mespronos-site-scaffolder",
   "description": "Kickstart a new betting website based on Drupal 8",
   "keywords": ["drupal","drupal8","mespronos"],
-  "homepage": "https://github.com/kgaut/mespronos-scaffolder",
+  "homepage": "https://github.com/mespronos/mespronos-scaffolder",
   "license": "GNU GPL V2",
   "authors": [
     {
