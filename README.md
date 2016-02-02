@@ -21,4 +21,4 @@ It will download Drupal 8, the module **mespronos** and the installation profile
 ##Links
   - [Module MesPronos](https://github.com/kgaut/mespronos)
   - [Installation profile MesPronos](https://github.com/kgaut/mepronos-installation-profile)
-  - [The project on Packagist](https://packagist.org/packages/kgaut/drupal-site-scaffolder)
+  - [The project on Packagist](https://packagist.org/packages/kgaut/mespronos-site-scaffolder)
