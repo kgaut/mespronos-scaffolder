@@ -35,7 +35,6 @@
   "scripts": {
     "post-install-cmd": [
       "sh ./scripts/post-install.sh"
-      //,"vendor/bin/drupal chain --root=www --file=../scripts/post-install.yml"
     ]
   },
   "config": {
