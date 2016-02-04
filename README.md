@@ -14,7 +14,7 @@ Then launch the command :
 
 ```composer create-project kgaut/mespronos-site-scaffolder ./ --stability dev ```
 
-It will download Drupal 8, the module **mespronos** and the installation profile
+It will download the most up to date Drupal 8 version, the module **mespronos** and the installation profile
 **mespronos_website**.
 
 
