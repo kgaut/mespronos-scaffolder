@@ -8,7 +8,7 @@
     {
       "name": "Kevin Gautreau",
       "email": "contact@kgaut.net",
-      "homepage": "https://www.kgaut.net",
+      "homepage": "https://web.kgaut.net",
       "role": "Developer"
     }
   ],
@@ -43,19 +43,19 @@
   },
   "extra": {
     "installer-paths": {
-      "www/": ["type:drupal-core"],
-      "www/modules/contrib/{$name}/": ["type:drupal-module"],
-      "www/profiles/contrib/{$name}": ["type:drupal-profile"],
-      "www/themes/contrib/{$name}/": ["type:drupal-theme"],
-      "www/libraries/{$name}/": ["type:drupal-library"],
+      "web/": ["type:drupal-core"],
+      "web/modules/contrib/{$name}/": ["type:drupal-module"],
+      "web/profiles/contrib/{$name}": ["type:drupal-profile"],
+      "web/themes/contrib/{$name}/": ["type:drupal-theme"],
+      "web/libraries/{$name}/": ["type:drupal-library"],
       "drush/contrib/{$name}/": ["type:drupal-drush"]
     },
     "preserve-paths": [
-      "www/modules/contrib",
-      "www/themes/contrib",
-      "www/libraries",
-      "www/sites/default/settings.php",
-      "www/sites/default/files"
+      "web/modules/contrib",
+      "web/themes/contrib",
+      "web/libraries",
+      "web/sites/default/settings.php",
+      "web/sites/default/files"
     ],
     "patches": {
     }
