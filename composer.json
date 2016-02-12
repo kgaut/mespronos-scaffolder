@@ -29,8 +29,8 @@
     "drupal/piwik": "8.*",
     "drupal/metatag": "8.*",
     "drupal/admin_toolbar": "~8.1",
-    "kgaut/mespronos": "dev-8.x-1.x",
-    "kgaut/mespronos_website": "dev-8.x-1.x",
+    "mespronos/mespronos": "dev-8.x-1.x",
+    "mespronos/mespronos_website": "dev-8.x-1.x",
     "mespronos/mespronos_front_theme": "dev-8.x-1.x"
   },
   "scripts": {
